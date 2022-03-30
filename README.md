@@ -21,4 +21,4 @@ Node modules used.
     "pretty-ms": "^7.0.1",
     "snekfetch": "^4.0.4"
 
-<iframe src="https://canary.discord.com/widget?id=903011983769632869&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+https://canary.discord.com/widget?id=903011983769632869&theme=dark
