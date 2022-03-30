@@ -1,7 +1,8 @@
 # RadioBot.live
 Private/Personal Usage Only
+If you use this code, you must not upload your bot to any discord bot list websites!
 
-I didnt make the yt/spotify/filters/player part a friend gave that to me.   
+I didn't make the YT/Spotify/filters/player part, a friend gave that to me.   
 Node modules used.
 
     "@discordjs/opus": "^0.3.3",
