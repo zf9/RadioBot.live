@@ -1,4 +1,5 @@
 # RadioBot.live
+Private/Personal Usage Only
 
 I didnt make the yt/spotify/player part a friend gave that to me.   
 Node modules used.
