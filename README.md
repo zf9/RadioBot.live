@@ -1,5 +1,7 @@
 # RadioBot.live
 
+Node modules used.
+
     "@discordjs/opus": "^0.3.3",
     "discord-player": "^3.3.2",
     "discord.js": "^12.5.1",
