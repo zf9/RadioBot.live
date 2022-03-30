@@ -2,6 +2,8 @@
 Private/Personal Usage Only
 If you use this code, you must not upload your bot to any discord bot list websites!
 
+Will make a setup guild within the next week.  
+
 I was given the Player/Filters/YouTube part of this bot by a friend. I do not take credit for these.   
 Node modules used.
 
