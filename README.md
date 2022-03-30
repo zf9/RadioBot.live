@@ -1,4 +1,6 @@
 # RadioBot.live
+https://discord.com/invite/dDFgQHam8Y
+
 Private/Personal Usage Only
 If you use this code, you must not upload your bot to any discord bot list websites!
 
