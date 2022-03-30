@@ -2,7 +2,7 @@
 Private/Personal Usage Only
 If you use this code, you must not upload your bot to any discord bot list websites!
 
-I didn't make the YT/Spotify/filters/player part, a friend gave that to me.   
+I was given the Player/Filters/YouTube part of this bot by a friend. I do not take credit for these.   
 Node modules used.
 
     "@discordjs/opus": "^0.3.3",
